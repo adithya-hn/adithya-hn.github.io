@@ -1,2 +1,2 @@
-# adithya-hn.github.io
+# Adithya HN
 All about me
